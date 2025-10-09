@@ -1,7 +1,7 @@
 # BABILong-ITA
 This repository contains the BABILong-ITA dataset and the code for reproducing our LongMinerva results presented at CLiC-it 2025.
 
-First download the dataset from [our server](http://corpora.ficlit.unibo.it/UploadDIR/babilong-ita.tgz) and uncompress it into the main folder.
+First download the dataset from [our server](http://corpora.ficlit.unibo.it/UploadDIR/GitHub/babilong-ita.tgz) and uncompress it into the main folder.
 
 To reproduce figures 2 and 3 from the paper, execute the evaluation of each single LLM, for example:
 ```
